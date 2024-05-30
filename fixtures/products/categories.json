@@ -1,0 +1,58 @@
+[
+  {
+    "model": "products.categories",
+    "pk": 3,
+    "fields": {
+      "name": "Все товары",
+      "slug": "all"
+    }
+  },
+  {
+    "model": "products.categories",
+    "pk": 4,
+    "fields": {
+      "name": "Смартфоны",
+      "slug": "smartfoni"
+    }
+  },
+  {
+    "model": "products.categories",
+    "pk": 5,
+    "fields": {
+      "name": "Ноутбуки",
+      "slug": "noutbuki"
+    }
+  },
+  {
+    "model": "products.categories",
+    "pk": 6,
+    "fields": {
+      "name": "Телевизоры",
+      "slug": "televizori"
+    }
+  },
+  {
+    "model": "products.categories",
+    "pk": 7,
+    "fields": {
+      "name": "Мониторы",
+      "slug": "monitori"
+    }
+  },
+  {
+    "model": "products.categories",
+    "pk": 8,
+    "fields": {
+      "name": "Бытовая техника",
+      "slug": "bytovaya-tehnika"
+    }
+  },
+  {
+    "model": "products.categories",
+    "pk": 9,
+    "fields": {
+      "name": "Умный дом",
+      "slug": "umnyj-dom"
+    }
+  }
+]
